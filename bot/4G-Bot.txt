@@ -1,0 +1,15 @@
+Spieler: s
+Bot: b
+Feld: f
+	getSpieler: 0 = spieler, 1 = bot, -1 = non;
+	getWidth: returns width;
+	getHeigh: returns height;
+
+
+for (int i = 0; i < f.getWidth; i++) {
+	for (int j = 0; j < f.getHeight; j++) {
+		
+		
+		
+	}
+}
